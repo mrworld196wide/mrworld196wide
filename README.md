@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science by myself
 - 💞️ I’m looking to collaborate on mind blowing projects give my bit and ideas to the project
 - 📫 You can reach me at apkc4545@gmail.com
-- 👀 I,ve been consistently tryung to learn more and more 
+- 👀 I,ve been consistently trying to learn more and more 
 *I hope I don't regret making this read me file.
 <!---
 mrworld196wide/mrworld196wide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
