@@ -9,7 +9,7 @@
 
 
 ### 👨‍💻 Who am I?
-### I am a 2nd Year Student at NIIT University currently pursuing my Bachelors in Computer Science Engineering. As of now all I wanna do is learn
+### I am a sophomore at NIIT University currently pursuing my Bachelors in Computer Science Engineering. As of now all I wanna do is learn
 
 
 Skills: C++ / JAVA  / PYTHON / JS / HTML / CSS
