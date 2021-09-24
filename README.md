@@ -16,7 +16,7 @@ Skills: C++ / JAVA  / PYTHON / JS / HTML / CSS
 
 - 🔭 I am currently working on my Competitive Programming skills although I'm still at a single star.
 - 💞️ I’m looking to collaborate on mind blowing projects give my bit and ideas to the project
-- 👯 I’m looking to collaborate with other Open source Enthusism.
+- 👯 I’m looking to collaborate with other Open source Enthusiast's.
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - 📫 You can reach me at apkc4545@gmail.com
 - ⚡ Fun fact: I love to code.
