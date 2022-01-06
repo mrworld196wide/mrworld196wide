@@ -21,9 +21,7 @@ Skills: C++ / JAVA  / PYTHON / JS / HTML / CSS
 - 📫 You can reach me at apkc4545@gmail.com
 - ⚡ Fun fact: I love to code.
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://www.spotify.com/in-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
 
 ### 📫 Reach out to me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrworld196wide)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aishwarpathak/)  [img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_pathak__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16525389/user16525389)
@@ -32,21 +30,21 @@ Skills: C++ / JAVA  / PYTHON / JS / HTML / CSS
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; 
+  
+  
+  
   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
+  
   <img src="https://img.shields.io/badge/angular%20-%231572B6.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/travis%20-%231572B6.svg?&style=for-the-badge&logo=travis&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/neo4j%20-%231572B6.svg?&style=for-the-badge&logo=neo4j&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
+  
+  
+  
+  
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
+  
 </p>
 
 
