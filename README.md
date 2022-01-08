@@ -14,7 +14,7 @@
 
 Skills: C++ / JAVA  / PYTHON / JS / HTML / CSS
 
-- 🔭 I am currently working on my Competitive Programming skills although I'm still at a single star.
+- 🔭 I am currently working on my Competitive Programming.
 - 💞️ I’m looking to collaborate on mind blowing projects give my bit and ideas to the project
 - 👯 I’m looking to collaborate with other Open source Enthusiast's.
 - 🥅 2022 Goal: Contribute more to Open Source projects
