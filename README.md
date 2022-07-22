@@ -5,35 +5,34 @@
 </p>
 
 
-<h1 align="center">👀 I’m interested in Data Science</h1>
-
-
 ### 👨‍💻 Who am I?
-### I am a sophomore at NIIT University currently pursuing my Bachelors in Computer Science Engineering. As of now all I wanna do is learn
+### I'm a student at NIIT University currently pursuing my Bachelors in Computer Science Engineering. As of now all I wanna do is learn
 
-
-Skills: C++ / JAVA  / PYTHON / JS / HTML / CSS
-
-- 🔭 I am currently working on my Competitive Programming skills.
+- 🔭 I am currently working on Full Stack Development.
 - 💞️ I’m looking to collaborate on mind blowing projects give my bit and ideas to the project
 - 👯 I’m looking to collaborate with other Open source Enthusiast's.
-- 🥅 2022 Goal: Contribute more to Open Source projects
 - 📫 You can reach me at apkc4545@gmail.com
-- ⚡ Fun fact: I love to code.
+- ⚡ Fun fact: I like playing badminton
+- 💬 Ask me anything about **emerging tech, geopolitics and mythology**.
 
 
 
 ### 📫 Reach out to me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrworld196wide)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aishwarpathak/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16525389/user16525389)
 
-<h2 align="center"> 🔭 Technology Stack</h2>
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
-  
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+## 💻 Technologies and Tools
+<p align="left"> 
+ <code> <img height="32" width="32" src="images/html5.svg" /> </code>
+ <code> <img height="32" width="32" src="images/css3.svg" /> </code>
+ <code> <img height="32" width="32" src="images/js.svg" /> </code>
+ <code> <img height="32" width="32" src="images/git.svg" /> </code>
+ <code> <img height="32" width="32" src="images/java.svg" /> </code>
+ <code> <img height="32" width="32" src="images/python.svg" /> </code>
+	<code> <img height="32" width="32" src="images/c++.svg" /> </code>
+	<!--<code> <img height="32" width="32" src="images/react.svg" /> </code> -->
+	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
+	<!--<code> <img height="32" width="32" src="images/flask.svg" /> </code> -->
+	<code> <img height="32" width="32" src="images/linux.svg" /> </code>
 </p>
 
 
@@ -44,6 +43,13 @@ Skills: C++ / JAVA  / PYTHON / JS / HTML / CSS
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrworld196wide&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mrworld196wide Github Stats">
 
 </div>
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aishwar Pathak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrworld196wide&langs_count=10&layout=compact&theme=prussian" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
 
 <!-- 
 <h2 align="center"> 🔭 Top Language</h2>
@@ -52,12 +58,3 @@ Skills: C++ / JAVA  / PYTHON / JS / HTML / CSS
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=mrworld196wide&theme=github)
-
-
-### 📕 Latest Blog Posts
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrworld196wide)](https://github.com/anuraghazra/github-readme-stats)
-
