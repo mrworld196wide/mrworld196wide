@@ -22,18 +22,19 @@
 
 ## 💻 Technologies and Tools
 <p align="left"> 
- <code> <img height="32" width="32" src="images/html5.svg" /> </code>
- <code> <img height="32" width="32" src="images/css3.svg" /> </code>
- <code> <img height="32" width="32" src="images/js.svg" /> </code>
- <code> <img height="32" width="32" src="images/git.svg" /> </code>
- <code> <img height="32" width="32" src="images/java.svg" /> </code>
- <code> <img height="32" width="32" src="images/python.svg" /> </code>
-	<code> <img height="32" width="32" src="images/c++.svg" /> </code>
-	<!--<code> <img height="32" width="32" src="images/react.svg" /> </code> -->
+	<!-- <code> <img height="32" width="32" src="images/react.svg" /> </code> -->
 	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
+	<code> <img height="32" width="32" src="images/js.svg" /> </code>
+	<code> <img height="32" width="32" src="images/java.svg" /> </code>
+	<code> <img height="32" width="32" src="images/python.svg" /> </code>
+	<code> <img height="32" width="32" src="images/c.svg" /> </code>
 	<!--<code> <img height="32" width="32" src="images/flask.svg" /> </code> -->
+	<code> <img height="32" width="32" src="images/git.svg" /> </code>
+	<code> <img height="32" width="32" src="images/html5.svg" /> </code>
+	<code> <img height="32" width="32" src="images/css3.svg" /> </code>
 	<code> <img height="32" width="32" src="images/linux.svg" /> </code>
-</p>
+</p>  
+  
 
 
 ## &#x1f4c8; GitHub Stats
