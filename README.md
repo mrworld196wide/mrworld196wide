@@ -34,13 +34,18 @@
 	<code> <img height="32" width="32" src="images/linux.svg" /> </code>
 </p>  
   
+<h1 align="center"> 🔥 Contributions: </h1>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrworld196wide&show_icons=true&theme=onedark" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrworld196wide&show_icons=true&theme=onedark" />
+  
+</p>
 
-
+<!-- 
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=mrworld196wide)
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrworld196wide&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mrworld196wide Github Stats">
+-->
 
 </div>
 <details> 
