@@ -27,6 +27,8 @@
 	<code> <img height="32" width="32" src="images/js.svg" /> </code>
 	<code> <img height="32" width="32" src="images/git.svg" /> </code>
 	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
+	<code> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
+	<code> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> </code>
 	<code><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/> </code>
 	<code> <img height="32" width="32" src="images/java.svg" /> </code>
 	<code> <img height="32" width="32" src="images/python.svg" /> </code>
