@@ -9,7 +9,7 @@
 ### I'm a student at NIIT University currently pursuing my Bachelors in Computer Science Engineering. As of now all I wanna do is learn
 
 - 🔭 I am currently working on Full Stack Development.
-- 💞️ I’m looking to collaborate on mind blowing projects give my bit and ideas to the project
+- 💞️ I’m looking to collaborate on mind blowing projects and give my best to the project
 - 👯 I’m looking to collaborate with other Open source Enthusiast's.
 - 📫 You can reach me at apkc4545@gmail.com
 - ⚡ Fun fact: I like playing badminton
