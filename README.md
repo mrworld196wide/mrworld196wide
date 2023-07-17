@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50"> I'm Aishwar Pathak  </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrworld196wide&label=Profile%20views&color=0e75b6&style=flat" alt="mrworld196wide" /> </p>
  <p align="center">
  <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350">
 </p>
