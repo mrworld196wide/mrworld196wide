@@ -6,12 +6,11 @@
 
 
 ### 👨‍💻 Who am I?
-### I'm a student at NIIT University currently pursuing my Bachelors in Computer Science Engineering. As of now all I wanna do is learn
+### I'm a fresh graduate from NIIT University.
 
 - 🔭 I am currently working on Full Stack Development.
-- 💞️ I’m looking to collaborate on mind blowing projects and give my best to the project
 - 👯 I’m looking to collaborate with other Open source Enthusiast's.
-- 📫 You can reach me at apkc4545@gmail.com
+- 📫 You can reach me at aishwarthisside@gmail.com
 - ⚡ Fun fact: I like playing badminton
 - 💬 Ask me anything about **emerging tech, geopolitics and mythology**.
 
