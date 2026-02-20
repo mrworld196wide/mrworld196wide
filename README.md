@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 Who am I?
-### I'm an average Backend & Full Stack Engineer | Building scalable APIs & production systems.
+### I'm a Backend & Full Stack Engineer | Building scalable APIs & production systems.
 
 - 💻 Software Engineer focused on backend-heavy systems and scalable APIs  
 - 🧠 Interested in system design, distributed systems, and production reliability  
