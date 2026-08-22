@@ -13,8 +13,18 @@
 - 🌱 Continuously learning and improving backend architecture skills
 - 🏸 Outside tech, I enjoy playing badminton
 
-### 📫 Reach out to me on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrworld196wide)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aishwarpathak/)
+### How To Reach Me
+<a href="https://www.linkedin.com/in/aishwarpathak/">
+    <img style="margin: 0.4rem 0rem 0rem 1rem;"
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="Linkedin">
+</a>
+<a href="mailto:aishwarthisside@gmail.com">
+    <img style="margin: 0.4rem 0rem 0rem 1rem;"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail">
+</a>
+<br>
 
 ## 🛠 Tech Stack
 
